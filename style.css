@@ -1,0 +1,29 @@
+body{
+	padding:150px; 
+	font-family: helvetica;
+	background-color: #000;
+	background: url(https://farm2.staticflickr.com/1613/24143380002_de46b4fbf6_b.jpg); 
+	color: #fff;
+	background-size: cover;
+}
+a{color: #fff;}
+.nav ul li{
+	list-style: none;
+	display: inline;
+}
+
+.nav li{padding:20px
+}
+
+.nav a{text-decoration: none;}
+
+.nav a:hover {text-decoration: underline;
+}
+.content img{width:50px;
+
+}
+.content{text-align: center;}
+
+.text{padding:50px;}
+
+
